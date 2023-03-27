@@ -2,7 +2,7 @@
 
 <h2> Hello, my name is Terrell. </h2>
 
-I am currently working on Sprint 8 (TECHNICAL EXAM PREPARATION AND GITHUB). I am currently learning React. I mostly complete coursework for bloomtech sprints on this account. Ask me about React.
+I am currently working on Sprint 8 (TECHNICAL EXAM PREPARATION AND GITHUB). I am currently learning React. I mostly complete coursework for bloomtech sprints on this account.
 
 
 
