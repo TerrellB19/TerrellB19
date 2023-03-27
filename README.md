@@ -1,5 +1,8 @@
 ### Hi there 👋
-Hello, my name is Terrell. I am currently learning full stack web devolopement at Bloomtech. I mostly complete coursework for bloomtech sprints on this account. ask me about React.
+Hello, my name is Terrell. I am currently working on Sprint 8 (TECHNICAL EXAM PREPARATION AND GITHUB). I am currently learning React. I mostly complete coursework for bloomtech sprints on this account. Ask me about React.
+
+
+
 
 <!--
 **TerrellB19/TerrellB19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
