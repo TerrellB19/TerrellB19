@@ -2,7 +2,7 @@
 
 <h2> Hello, my name is Terrell. </h2>
 
-I am currently working on Sprint 17 -20  (Applied Computer Science) at bloomtech. I am currently learning Alternative storage methods such as Linked lists, Binary Trees, And Graphs. I mostly complete coursework for bloomtech sprints on this account.
+I am currently working on Sprint 17 - 20  (Applied Computer Science) at bloomtech. I am currently learning Alternative storage methods such as Linked lists, Binary Trees, And Graphs. I mostly complete coursework for bloomtech sprints on this account.
 
 
 
