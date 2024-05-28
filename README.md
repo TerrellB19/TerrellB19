@@ -21,7 +21,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/terrell-booker/"><img alt="LinkedIn" src=""></a>
+<a href="https://www.linkedin.com/in/terrell-booker/"><img alt="LinkedIn" src="![image](https://github.com/TerrellB19/TerrellB19/assets/120531620/13d9fc2f-8fde-4f1c-8cdf-be668ebfef8d)
+"></a>
 </p>
 
 
