@@ -40,11 +40,12 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a mailto="terrellbooker19@gmail.com">Gmail</a>
+<a href="mailto:terrellbooker19@gmail.com">Gmail</a>
 <a href="https://www.linkedin.com/in/terrell-booker/">linkedin</a>
 </p>
 
