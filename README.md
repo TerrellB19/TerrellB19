@@ -44,7 +44,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <p align="center">
-<a mailto:terrellbooker19@gmail.com>Gmail</a>
+<a mailto="terrellbooker19@gmail.com">Gmail</a>
 <a href="https://www.linkedin.com/in/terrell-booker/">linkedin</a>
 </p>
 
