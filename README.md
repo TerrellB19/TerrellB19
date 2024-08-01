@@ -7,7 +7,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I am currently Studying fullstack web devolopement at Bloomtech.
 - 💼 &nbsp; Interested in opportunities as a fullstack web devoloper.
 - 💬 &nbsp; Ask me about: Tech, React, Javascript, AHK
 - ⚡ &nbsp; Languages: Javascript, C++(very basic knowledge), Auto Hotkey
