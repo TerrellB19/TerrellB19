@@ -9,7 +9,7 @@
 
 - 💼 &nbsp; Interested in opportunities as a fullstack web devoloper.
 - 💬 &nbsp; Ask me about: Tech, React, Javascript, AHK
-- ⚡ &nbsp; Languages: Javascript, C++(very basic knowledge), Auto Hotkey
+- ⚡ &nbsp; Languages: Javascript , CSS, Html, C++(very basic knowledge), Auto Hotkey
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 🌐 &nbsp;
